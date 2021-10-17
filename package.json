@@ -1,0 +1,20 @@
+{
+  "name": "Server-Client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coingecko-api": "^1.0.10",
+    "coinmarketcap-api": "^3.1.1",
+    "express": "^4.17.1",
+    "node-coinmarketcap-api": "^1.0.4",
+    "node-coinmarketcap-rest-api": "^0.2.0",
+    "styled-components": "^5.3.1"
+  }
+}
